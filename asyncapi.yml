@@ -9,10 +9,7 @@ info:
 
     * Turn a specific streetlight on/off
     * Dim a specific streetlight
-    * Receive real-time information about environmental lighting conditions 📈
-  license:
-    name: Apache 2.0
-    url: https://www.apache.org/licenses/LICENSE-2.0
+    * Receive real-time information about environmental lighting conditions
 
 servers:
   test:
